@@ -4,14 +4,12 @@ Welcome to my portfolio! Here are some of the projects I've worked on:
 
 ## Projects
 
-### Covid-19 Dashboard
-**Description:** A Power BI dashboard providing insightful visualizations and 
+### [Covid-19 Dashboard](https://github.com/PriyankSharma1/covid19-dashboard)
+**Description:** A Power BI dashboard providing insightful visualizations and analysis of the Covid-19 pandemic.      
 **Technologies Used:** Power BI, DAX Measures, CSV data.  
 **Highlights:** Interactive filters, comparative analysis, trend visualization.
 
-!Covid-19 Dashboard Screenshot
-
-Feel free to explore each project and see what I've been working on. If you have any questions or feedback, don't hesitate to reach out!
+[!Covid-19 Dashboard Screenshot](https://private-user-images.githubusercontent.com/192903617/428362753-1bc47df2-c23c-48ce-a182-f8e9bab1f248.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQyMTU1NDEsIm5iZiI6MTc0NDIxNTI0MSwicGF0aCI6Ii8xOTI5MDM2MTcvNDI4MzYyNzUzLTFiYzQ3ZGYyLWMyM2MtNDhjZS1hMTgyLWY4ZTliYWIxZjI0OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwOVQxNjE0MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMTg3ZDNmY2RhNzZhMjU5NmY1ZTQ5ZThjMmQ0ZGQzMTE1MGEyMzg0MjFhM2EzNzk2MGM5OWU5NjNmMWI2YzdmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.nGN5AAWZNg01lXWeFpWehGCwua0YtJyF1cb3QHh6YEw&_sm_au_=iVVWMNtr0DrMs1HFps3NHKsk0Gvsp)
 
 ---
 
@@ -31,20 +29,6 @@ I have worked on various projects across industries, including aerial transport,
 
 ---
 
-## Badges
-
-!Power BI
-!DAX
-!CSV
-
----
-
-## Screenshots
-
-!Covid-19 Dashboard Screenshot
-
----
-
 ## Interactive Elements
 
 - **Explore More Projects:** As I complete more projects, I will update this portfolio with new links and descriptions.
@@ -54,7 +38,7 @@ I have worked on various projects across industries, including aerial transport,
 
 ## Additional Information
 
-- **License:** This project is licensed under the MIT License - see the LICENSE file for details.
+- **License:** This project is licensed under the MIT License - see the [LICENSE](https://github.com/PriyankSharma1/portfolio/blob/main/LICENSE) file for details.
 - **Contributing:** Contributions are welcome! If you have suggestions for improvements, feel free to create a pull request.
 
 ---
