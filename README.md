@@ -4,9 +4,8 @@ Welcome to my portfolio! Here are some of the projects I've worked on:
 
 ## Projects
 
-### Link Covid-19 Dashboard
-https://github.com/PriyankSharma1/covid19-dashboard
-**Description:** A Power BI dashboard providing insightful visualizations and analysis of the Covid-19 pandemic.  
+### Covid-19 Dashboard
+**Description:** A Power BI dashboard providing insightful visualizations and 
 **Technologies Used:** Power BI, DAX Measures, CSV data.  
 **Highlights:** Interactive filters, comparative analysis, trend visualization.
 
