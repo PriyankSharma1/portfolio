@@ -24,8 +24,8 @@ I have worked on various projects across industries, including aerial transport,
 ## Contact
 
 - **Email:** pinkusharma19@gmail.com
-- **LinkedIn:** Priyank Sharma LinkedIn Profile
-- **GitHub:** Priyank Sharma GitHub Profile
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/priyank-sharma01/)
+- **GitHub:** [GitHub Profile](https://github.com/PriyankSharma1/portfolio)
 
 ---
 
