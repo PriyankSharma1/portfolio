@@ -4,12 +4,16 @@ Welcome to my portfolio! Here are some of the projects I've worked on:
 
 ## Projects
 
-### [Covid-19 Dashboard](https://github.com/PriyankSharma1/covid19-dashboard)
-**Description:** A Power BI dashboard providing insightful visualizations and analysis of the Covid-19 pandemic.      
+### 1. [Covid-19 Dashboard](https://github.com/PriyankSharma1/covid19-dashboard)
+**Description:** A Power BI dashboard providing insightful visualizations and analysis of the COVID-19 pandemic.      
 **Technologies Used:** Power BI, DAX Measures, CSV data.  
 **Highlights:** Interactive filters, comparative analysis, trend visualization.
 
-[!Covid-19 Dashboard Screenshot](https://private-user-images.githubusercontent.com/192903617/428362753-1bc47df2-c23c-48ce-a182-f8e9bab1f248.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYzOTA3MDcsIm5iZiI6MTc0NjM5MDQwNywicGF0aCI6Ii8xOTI5MDM2MTcvNDI4MzYyNzUzLTFiYzQ3ZGYyLWMyM2MtNDhjZS1hMTgyLWY4ZTliYWIxZjI0OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNFQyMDI2NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYjMzNjZjYWEyNTI5MTlmMjY1M2M1YTU3Njk5NWYwNmE4OWVhZDlhNGU1NDEyOTJiOGI1MzY2ODJkODVhYzdmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TL9PNpfkIcLv_BTYiAOw5dyDm2Bzbc0bf7UEfPSyqKg)
+### 2. [Global Superstore](https://github.com/PriyankSharma1/global_superstore)
+**Description:**  A Power BI report demonstrating multiple visualization techniques using the Global Superstore dataset to analyze sales, profit, and shipping performance across segments and regions.      
+**Technologies Used:**  Power BI, DAX Measures, Global Superstore Dataset (csv)         
+**Highlights:**  Combo charts, advanced visuals (funnel, waterfall, map), KPI summary, interactive slicers, and page navigation.
+
 
 ---
 
