@@ -14,6 +14,10 @@ Welcome to my portfolio! Here are some of the projects I've worked on:
 **Technologies Used:**  Power BI, DAX Measures, Global Superstore Dataset (csv)         
 **Highlights:**  Combo charts, advanced visuals (funnel, waterfall, map), KPI summary, interactive slicers, and page navigation.
 
+### 3. [Sales Performance Dashboard](https://github.com/PriyankSharma1/sales-performance-department)
+**Description:** An interactive Tableau dashboard analyzing department-wise sales performance using the Superstore dataset, with multiple chart types, filters, and a responsive design.     
+**Technologies Used:** Tableau, Calculated Fields, Sample Superstore Dataset (Excel)       
+**Highlights:** Tree map, rolling average, daily trend analysis, ship mode comparison, interactive filters, and mobile-friendly layout.
 
 ---
 
