@@ -1,35 +1,46 @@
+## 👋 About Me
+
+Hello! I'm Priyank Sharma, a passionate Data Analyst and ETL QA professional with experience in data testing, data validation, and building data pipelines. I enjoy solving data quality challenges and turning raw data into actionable insights.
+
+---
+## 💻 Skills
+
+| Skill                           | Level    |
+|-------------------------------  |----------|
+| Python (Pandas, NumPy)          | Intermediate |
+| SQL (Advanced Queries)          | Advanced |
+| ETL Testing & Automation        | Advanced |
+| Power BI                        | Intermediate |
+| Snowflake & Azure Data Services | Advanced |
+| Git & GitHub                    | Intermediate |
+
+---
 # My Portfolio
 
 Welcome to my portfolio! Here are some of the projects I've worked on:
 
-## Projects
+## 🛠️ Projects
 
 ### 1. [Covid-19 Dashboard](https://github.com/PriyankSharma1/covid19-dashboard)
 **Description:** A Power BI dashboard providing insightful visualizations and analysis of the COVID-19 pandemic.      
 **Technologies Used:** Power BI, DAX Measures, CSV data.  
-**Highlights:** Interactive filters, comparative analysis, trend visualization.
+**Highlights:** Interactive filters, comparative analysis, trend visualization.     
+**Status:** Completed  
 
 ### 2. [Global Superstore](https://github.com/PriyankSharma1/global_superstore)
 **Description:**  A Power BI report demonstrating multiple visualization techniques using the Global Superstore dataset to analyze sales, profit, and shipping performance across segments and regions.      
 **Technologies Used:**  Power BI, DAX Measures, Global Superstore Dataset (csv)         
-**Highlights:**  Combo charts, advanced visuals (funnel, waterfall, map), KPI summary, interactive slicers, and page navigation.
+**Highlights:**  Combo charts, advanced visuals (funnel, waterfall, map), KPI summary, interactive slicers, and page navigation.     
+**Status:** Completed  
 
 ### 3. [Sales Performance Dashboard](https://github.com/PriyankSharma1/sales-performance-department)
 **Description:** An interactive Tableau dashboard analyzing department-wise sales performance using the Superstore dataset, with multiple chart types, filters, and a responsive design.     
 **Technologies Used:** Tableau, Calculated Fields, Sample Superstore Dataset (Excel)       
-**Highlights:** Tree map, rolling average, daily trend analysis, ship mode comparison, interactive filters, and mobile-friendly layout.
+**Highlights:** Tree map, rolling average, daily trend analysis, ship mode comparison, interactive filters, and mobile-friendly layout.     
+**Status:** Completed  
 
 ---
-
-## About Me
-
-I am Priyank Sharma, a Data Analyst with over 9 years of experience in data analysis, data warehousing, ETL development/testing, and Big Data environments. I have a proven track record in leading cross-functional teams, creating test strategies, and managing customer communications. My technical expertise includes SQL, Python, and GCP functionalities, and I am adept at integrating multiple data sources to drive data-driven decision-making in Agile/Scrum environments.
-
-I have worked on various projects across industries, including aerial transport, capital markets, and investment banking. My skills extend to team management, customer communication, status reporting, and defect management. I am passionate about leveraging data to uncover insights and improve business processes.
-
----
-
-## Contact
+## 📫 Contact Me
 
 - **Email:** pinkusharma19@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/priyank-sharma01/)
